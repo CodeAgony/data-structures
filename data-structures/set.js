@@ -1,6 +1,4 @@
-// A set is an abstract data type that can store values without any particular order.
-// You can iterate through the elements of a set in insertion order. A value in the Set may only occur once;
-// it is unique in the Set's collection.
+// A set is an abstract data type that can store values without any particular order. You can iterate through the elements of a set in insertion order. A value in the Set may only occur once; it is unique in the Set's collection.
 
 // Create new set
 const mySet = new Set([1, 2, 3]);
